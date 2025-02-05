@@ -1,1 +1,1 @@
-console.log("BibleBot4Jx is starting..."); 
+console.log("Hello! This is a test for BibleBot4Jx.");
